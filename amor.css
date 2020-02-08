@@ -1,0 +1,91 @@
+/* maquetado y estilo index*/
+
+body {
+    background-image: url(../img/fon.png);
+    background-repeat: no-repeat;
+}
+
+.menu {
+    width: 100%;
+    height: 80px;
+    background-color: goldenrod;
+    margin: 40px 20px 50px;
+    border-radius: 10px;
+}
+
+.button {
+    padding: 0;
+    float: right;
+}
+
+.button li {
+    display: inline;
+}
+
+.button li a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #F03A13;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.caja1 {
+    width: 75%;
+    height: 600px;
+    border: solid 1px black;
+    background-color: rgb(14, 180, 22);
+    background-size: cover;
+    float: left;
+    margin: 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.caja2 {
+    width: 20%;
+    height: 600px;
+    border: solid 1px black;
+    background-color: rgb(199, 209, 226);
+    background-size: cover;
+    float: right;
+    margin: 19px 0px 0px;
+    border-radius: 10px;
+}
+
+.cajita {
+    width: 300px;
+    height: 200px;
+    background-color: goldenrod;
+    margin: 20px 500px 40px;
+    border-radius: 10px;
+}
+
+ul {
+    margin: 20px 30px 40px;
+}
+
+.cuadro1 {
+    width: 100%;
+    height: 100px;
+    border: solid 1px black;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.cuadro2 {
+    width: 100%;
+    height: 200px;
+    border: solid 1px black;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.cuadro3 {
+    width: 100%;
+    height: 300px;
+    border: solid 1px black;
+    background-size: cover;
+    border-radius: 10px;
+}
